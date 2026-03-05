@@ -1,4 +1,4 @@
-A simple web-based application built using Spring MVC, Spring Data JPA and Hibernate
+# A simple web-based application built using Spring MVC, Spring Data JPA and Hibernate
 
 ** FEATURES
 
